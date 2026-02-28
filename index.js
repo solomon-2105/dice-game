@@ -1,4 +1,4 @@
-var r1 = Math.floor(Math.random()*6)+1;
+l̥var r1 = Math.floor(Math.random()*6)+1;
 r1_image = "images/dice"+r1+".png";
 document.querySelectorAll("img")[0].setAttribute("src",r1_image);
 
